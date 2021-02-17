@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css?family=Ballet:400');
+
+
+aside {
+    float: left;
+    width: 30%;
+}
+
+main {
+    float: right;
+    width: 70%;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
+
+
+
+main { 
+    text-align: right;
+}
+
+main p {
+    text-align: justify;
+}
