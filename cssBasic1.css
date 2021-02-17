@@ -1,0 +1,16 @@
+div {
+    border: solid black 2px;
+    margin: 5px;
+}
+
+#second {
+    visibility: visible;
+}
+
+img {
+    visibility: visible;
+}
+
+#first p {
+    font-size: larger;
+}

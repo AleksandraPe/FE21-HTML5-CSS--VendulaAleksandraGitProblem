@@ -1,0 +1,21 @@
+.column1 {
+    column-count: 3;
+    column-rule-style: dashed;
+    column-rule-color: cadetblue;
+    column-rule-width: 5px;
+    column-gap: 40px;
+    column-rule-width: 8px;
+
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
+
